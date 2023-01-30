@@ -1,0 +1,18 @@
+####################################################################
+### Configuration of BetterBroadcast (c) 2022 by supercrafter333 ###
+############## Licensed under the Apache License 2.0 ###############
+####################################################################
+
+# Please insert you broadcast messages:
+broadcasts:
+  messages:
+    - "This is the 1st broadcast!"
+  tips:
+    - "This is the 2nd broadcast!"
+  titles:
+    "3rd broadcast": "subtitle"
+  toasts:
+    "Ukraine <3": "We stand with you!"
+
+# Broadcast interval (seconds):
+interval: 300 # seconds

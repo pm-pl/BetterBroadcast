@@ -1,0 +1,9 @@
+name: BetterBroadcast
+version: 1.0.0
+api: 4.11.0
+main: supercrafter333\BetterBroadcast\BetterBroadcast
+src-namespace-prefix: supercrafter333\BetterBroadcast
+author: supercrafter333
+
+website: "https://github.com/supercrafter333/BetterBroadcast"
+description: "A simple broadcaster plugin that allows you to use different message-types for your broadcast-messages."
