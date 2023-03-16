@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/ca6cWPpERp)
 
-# <a href="https://supercrafter333.github.io/BetterBroadcast/"><img src="https://github.com/supercrafter333/BetterBroadcast/blob/master/icon.png?raw=true" width="26" float="left" style="border-radius: 0.3rem"></a> BetterBroadcast - v1.0.0  [![](https://poggit.pmmp.io/shield.state/BetterBroadcast)](https://poggit.pmmp.io/p/BetterBroadcast) [![](https://poggit.pmmp.io/shield.dl.total/BetterBroadcast)](https://poggit.pmmp.io/p/BetterBroadcast)
+# <a href="https://supercrafter333.github.io/BetterBroadcast/"><img src="https://github.com/supercrafter333/BetterBroadcast/blob/master/icon.png?raw=true" width="26" float="left" style="border-radius: 0.3rem"></a> BetterBroadcast - v1.0.1  [![](https://poggit.pmmp.io/shield.state/BetterBroadcast)](https://poggit.pmmp.io/p/BetterBroadcast) [![](https://poggit.pmmp.io/shield.dl.total/BetterBroadcast)](https://poggit.pmmp.io/p/BetterBroadcast)
 
 ✨ **The innovative broadcast plugin** ✨
 
